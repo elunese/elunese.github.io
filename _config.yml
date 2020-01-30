@@ -2,9 +2,9 @@
 title: elunese
 subtitle: dev
 email: 
-description: 오호라
-baseurl: "/testpage" # the subpath of your site, e.g. /blog
-url: "https://elunese.github.io" # the base hostname & protocol for your site
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://github.elunese.kr" # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
@@ -20,7 +20,7 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://elunese.github.io/testpage
+github_url: https://github.elunese.kr
 gitlab_url:
 googleplus_url:
 instagram_url:
